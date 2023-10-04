@@ -5,5 +5,5 @@ Projeto feito seguindo as aulas da playlist de Java WEB (Java EE) do canal Profe
 Sobre: É uma agenda de contatos WEB onde pode pode cadastrar,editar,excluir e ver listado todos os contatos 
 ja cadastrados no banco de dados e pode baixar um PDF com os contatos listados.
 
-Neste projeto foi utilizado SERVELET, JSP, HTML, CSS, JAVASCRIPT, JAVA, integração com banco de dados MySQL, gerador de PDF
+Neste projeto foi utilizado SERVLET, JSP, HTML, CSS, JAVASCRIPT, JAVA, integração com banco de dados MySQL, gerador de PDF
 entre outras coisas.
